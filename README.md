@@ -1,4 +1,4 @@
-## Hi there, I'm Khushi 👋
+## Hi There, I'm Khushi 👋
 
 <!--
 **KhushiTanna/KhushiTanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
