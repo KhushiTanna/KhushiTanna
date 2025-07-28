@@ -1,6 +1,7 @@
-## Hi There, I'm Khushi 👋
+
 
 <!--
+## Hi There, I'm Khushi 👋
 **KhushiTanna/KhushiTanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,12 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-<a target="_blank" align="left">
-  <img align = "right",top="100" height="375" width="375" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif">
-</a>
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Student+At+NMIMS+University;Passionate+About+Data+Science;Always+Learning+New+Things;Interested+In+AI+ML"></a>
-</p>
+
+
+ <h2>Hi There, I'm Khushi 👋</h2>
+
+<!-- Right-aligned GIF -->
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" alt="GIF" width="300" align="right" />
+
+<!-- Typing SVG Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=false&vCenter=true&width=500&height=100&lines=Student+At+NMIMS+University;Passionate+About+Data+Science;Always+Learning+New+Things;Interested+In+AI+ML" alt="Typing SVG Text">
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
