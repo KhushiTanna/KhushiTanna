@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
 <a href="https://www.codechef.com/users/khushi_1501" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khushi_1501" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@khushitanna1501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@khushitanna1501" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/khushitanna1501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@khushitanna1501" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khushiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushiiiii" height="30" width="40" /></a>
 </p>
 
