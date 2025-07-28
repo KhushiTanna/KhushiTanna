@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a target="_blank" align="left">
-  <img align="right" top="100" height="400" width="375" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="100" height="400" width="375" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 </a>
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Student+At+NMIMS+University;Passionate+About+Data+Science;Always+Learning+New+Things;Interested+In+AI+ML"></a>
 
