@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
   
-  <a href="https://datalemur.com/user/tkhushi" target="_blank">
+  <a href="https://datalemur.com/tkhushi" target="_blank">
     <img src="https://img.shields.io/badge/DATALEMUR-FF6B00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMDI0IDUxMkMxMDI0IDc5NC4xNzYgNzk0LjE3NiAxMDI0IDUxMiAxMDI0QzIyOS44MjQgMTAyNCAtMCA3OTQuMTc2IDAgNTEyQzAgMjI5LjgyNCAyMjkuODI0IDAgNTEyIDBDNzk0LjE3NiAwIDEwMjQgMjI5LjgyNCAxMDI0IDUxWk01MTIgMzEyQzM4Mi44OCAzMTIgMjc2IDM4Mi44OCAyNzYgNDgwQzI3NiA1NzcuMTIgMzgyLjg4IDY0OCA1MTIgNjQ4Qzc0MS4xMiA2NDggODQ4IDU3Ny4xMiA4NDggNDgwQzg0OCAzODIuODggNzQxLjEyIDMxMiA1MTIgMzEyWiIgZmlsbD0iI0ZGRDgzMyIvPjwvc3ZnPg==" alt="DataLemur" height="30"/>
   </a>
 </p>
